@@ -1,0 +1,802 @@
+[
+  {
+    "question": "According to the landscape assessment, what is the recommended status of Study Area K2 and K3 in relation to the Green Belt, and what key functions do they serve?",
+    "ground_truth": "The assessment recommends that both K2 and K3 are retained within the Green Belt. K2 is identified as part of the important strategic gap between Kenilworth and Coventry, while K3 serves Green Belt functions including provision of recreational space and public access to the countryside. [Source: Coventry Planning Document, Study Area K2 and K3 Recommendations]",
+    "source_chunk_id": "5e75a2978c95-0017",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_11_-_Landscape_Value_Assessment.pdf"
+  },
+  {
+    "question": "According to the Coventry Health Impact Assessment SPD, what may happen if a HIA submitted with a planning application does not achieve a Grade A or B in the 'Review package for Health Impact Assessment Reports of Development Projects' assessment?",
+    "ground_truth": "If a HIA does not achieve a Grade A or B in the 'Review package for Health Impact Assessment Reports of Development Projects' assessment, Coventry City Council may request that the applicant carries out the HIA again or resubmits it with the required extra information; if issues remain for applications over the threshold described for policy HW1, the application may be refused. [Source: Coventry Health Impact Assessment SPD, Section 5]",
+    "source_chunk_id": "81922591babc-0018",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf"
+  },
+  {
+    "question": "According to the Coventry & Warwickshire Joint Strategic Housing Market Assessment Executive Summary, what is the recommended range of annual housing provision across the HMA, and what is considered a reasonable mid-point?",
+    "ground_truth": "The SHMA concludes that provision of between 3,335 – 4,100 homes per annum would be appropriate, with a mid-point of 3,750 homes per annum representing a reasonable level of provision across the HMA. [Source: Coventry & Warwickshire Joint Strategic Housing Market Assessment Executive Summary, paragraphs 2.11-2.12]",
+    "source_chunk_id": "43f003231886-0002",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Independent Housing Number Study/Cov__Warwickshire_Joint_SHMA_Executive_Summary.pdf"
+  },
+  {
+    "question": "According to the Coventry Planning Document, how does the Edge of Centre definition in the NPPF differ for retail, other main town centre uses, and office development?",
+    "ground_truth": "The Edge of Centre definition in the NPPF is: for retail purposes, a location well connected to and up to 300 metres from the primary shopping area; for all other main town centre uses, a location within 300 metres of a town centre boundary; and for office development, locations outside the town centre but within 500 metres of a public transport interchange. [Source: Coventry Planning Document, NPPF Edge of Centre definition]",
+    "source_chunk_id": "296778c2e612-0019",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Local Plan Review Evidence Base/Key stages of the Local Plan Review/LP Appendices 2023.pdf"
+  },
+  {
+    "question": "According to PM3, how should minerals and waste planning authorities decide on the form of their minerals and waste plans?",
+    "ground_truth": "PM3 states that minerals and waste planning authorities should consider the most appropriate form for their minerals and waste plan to take, which can be separate plans or combined with local plans where the authority is responsible for all these matters. [Source: National Planning Policy, PM3]",
+    "source_chunk_id": "8efcbe206a70-0006",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Coventry Planning Document, how many licensed HMOs are there in St Michael's ward, and what is the overall total of licensed HMOs in Coventry City?",
+    "ground_truth": "There are 480 licensed HMOs in St Michael's ward, and the overall total of licensed HMOs in Coventry City is 1,297. [Source: Coventry Planning Document, Section 3.14]",
+    "source_chunk_id": "e49b3810ea76-0005",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Homes in Multiple Occupation/Coventry_HMO_Iceni_Study_Final_for_consultation_Sept_2022.pdf"
+  },
+  {
+    "question": "What is the purpose of Appendix 2 in this Coventry Planning Document?",
+    "ground_truth": "Appendix 2 provides the Technical housing standards – nationally described space standard, as published in March 2015 by the Department for Communities and Local Government. [Source: Coventry Planning Document, Appendix 2]",
+    "source_chunk_id": "296778c2e612-0001",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Local Plan Review Evidence Base/Key stages of the Local Plan Review/LP Appendices 2023.pdf"
+  },
+  {
+    "question": "According to the Coventry Local Plan – Proposed Modifications, March 2017, what are the requirements for development in the functional floodplain (Flood Zone 3b)?",
+    "ground_truth": "The functional floodplain (Flood Zone 3b) should be protected from development and reinstated in brownfield areas wherever possible, and single storey buildings, basements, and buildings on stilts will not be acceptable in Flood Zone 3. [Source: Coventry Local Plan – Proposed Modifications, March 2017, Sustainability Appraisal/Strategic Environmental Assessment Addendum Report, Page 39]",
+    "source_chunk_id": "3f78a7d27907-0031",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/MOD14_SASEA_Final_Report___Local_Plan_Proposed_Modfications_2017.pdf"
+  },
+  {
+    "question": "According to paragraph 2.7 of PPG2, how should revisions to Green Belt boundaries be undertaken?",
+    "ground_truth": "Paragraph 2.7 of PPG2 states that revisions to Green Belt boundaries should only take place through the development plan process. [Source: Coventry Planning Document, PPG2 para. 2.7]",
+    "source_chunk_id": "269075283f26-0003",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/coventry_green_belt_review.pdf"
+  },
+  {
+    "question": "According to the City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, January 2016, what mitigation measure is recommended to minimise the risk of flooding within new developments?",
+    "ground_truth": "The report recommends ensuring the provision of Sustainable Urban Drainage Systems (SUDS) within new development to minimise the risk of flooding. [Source: City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, January 2016, Section 7.4]",
+    "source_chunk_id": "6c2face4814d-0043",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "According to the Town and Country Planning (General Permitted Development) (England) Order 2015, what is the effect of an Article 4 direction?",
+    "ground_truth": "An Article 4 direction made under the Town and Country Planning (General Permitted Development) (England) Order 2015 withdraws permitted development rights granted by that Order. [Source: National Planning Policy, Town and Country Planning (General Permitted Development) (England) Order 2015]",
+    "source_chunk_id": "8efcbe206a70-0080",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Coventry Local Plan and associated Supplementary Planning Documents, why is the provision of accessible healthcare services and other social infrastructure considered essential for sustainable, healthy communities?",
+    "ground_truth": "The provision of accessible healthcare services and other social infrastructure is essential for supporting population growth and change, preventing pressure on existing services, and improving health outcomes and community cohesion. [Source: Supplementary Planning Document (Coventry), Category 2: Access to healthcare services and other social infrastructure]",
+    "source_chunk_id": "81922591babc-0007",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf"
+  },
+  {
+    "question": "According to the City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, what are some irreversible impacts identified in Table 8 that may result from new development in the Bishopgate Regeneration Quarter?",
+    "ground_truth": "The irreversible impacts identified include the 'heat island' effect, where concentration of heat-emitting buildings increases local temperatures, and the loss of certain 'urban' habitats, potentially resulting in the loss of species dependent on those habitats. [Source: City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, January 2016, Section 6.17]",
+    "source_chunk_id": "6c2face4814d-0021",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "According to Table 12 in the Coventry City Council Authority Monitoring Report 2023/24, how many hectares of employment land remain unbuilt on allocated sites, and how many of these have extant outline planning permission at Eastern Green SUE?",
+    "ground_truth": "As of 31st March 2024, 58.87 hectares of employment land remain unbuilt on allocated sites, of which 15 hectares have extant outline planning permission at Eastern Green SUE (planning application OUT/2018/325). [Source: Coventry City Council Authority Monitoring Report 2023/24, Table 12 and paragraph 3.57]",
+    "source_chunk_id": "8b9b47690082-0018",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/6. Local Plan monitoring/Authority Monitoring Report (AMR)/Authority_Monitoring_Report_2023_24_PUBLISHED.pdf"
+  },
+  {
+    "question": "According to the Equality Impact Assessment (EIA) in the Coventry Local Plan Regulation 18 document, what percentage of Coventry residents live within 60 meters of a bus stop, and how is this relevant to health outcomes?",
+    "ground_truth": "The EIA states that 93% of Coventry residents live within 60 meters of a bus stop, which is relevant because increased use of public transport can improve air quality and thereby benefit health outcomes. [Source: Coventry Local Plan Regulation 18, Equality Impact Assessment (EIA)]",
+    "source_chunk_id": "f5ac83aa02f2-0006",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Local Plan Review Evidence Base/Key stages of the Local Plan Review/Equality and Health Impact Assessment Issues and Options Consultation 2023.pdf"
+  },
+  {
+    "question": "According to DM7, when should planning decisions avoid duplicating or extending controls imposed by separate regulatory regimes?",
+    "ground_truth": "Planning decisions should not seek to duplicate or extend controls imposed by separate regulatory regimes, except where there is a development plan policy in place applying optional technical standards for the development proposed (see policy PM13). [Source: National Planning Policy, DM7]",
+    "source_chunk_id": "8efcbe206a70-0016",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Policy DE1 and DS4 of the Coventry Local Plan, what urban design measures are recommended to reduce crime and improve community safety?",
+    "ground_truth": "Policy DE1 (Ensuring High Quality Design) and DS4 (General Masterplan Principles) of the Coventry Local Plan recommend thoughtful planning and urban design that promotes natural surveillance, social interaction, and community engagement to reduce crime and the fear of crime. [Source: Coventry Local Plan, Policy DE1 and DS4]",
+    "source_chunk_id": "81922591babc-0011",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf"
+  },
+  {
+    "question": "According to Section 6.5 of the Supplementary Planning Document, what environmental benefits are associated with the enhancement of green spaces?",
+    "ground_truth": "Section 6.5 of the Supplementary Planning Document states that enhancing green spaces will provide environmental benefits such as improved drainage, reduced flood risk, lower air pollution, and mitigation of the urban heat island effect. [Source: Supplementary Planning Document, Section 6.5]",
+    "source_chunk_id": "9aa8456577ef-0004",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Biodiversity Net Gain SPD/Biodiversity_Net_Gain_SPD_Cabinet_Report.pdf"
+  },
+  {
+    "question": "According to the Coventry Planning Document, which areas of Study Area C13 are recommended to be retained as Green Belt?",
+    "ground_truth": "The Coventry Planning Document recommends that the areas of C13 which lie outside of the University grounds are retained as Green Belt. [Source: Coventry Planning Document, Study Area C13]",
+    "source_chunk_id": "5e75a2978c95-0008",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_11_-_Landscape_Value_Assessment.pdf"
+  },
+  {
+    "question": "According to the national planning policy, what are the four tests that a sound spatial development strategy must satisfy during independent examination?",
+    "ground_truth": "A sound spatial development strategy must satisfy the following four tests: (a) Positive – delivering growth and meeting objectively assessed needs, (b) Appropriate – enabling sustainable development and considering reasonable alternatives, (c) Effective – containing effective policies with reasonable prospects for implementation, and (d) Consistent with national policy – aligning with national planning policy and not duplicating or modifying it. [Source: National Planning Policy, Section on Spatial Development Strategies Examination]",
+    "source_chunk_id": "8efcbe206a70-0011",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Policy P5, what must development proposals within consultation zones around major accident hazard sites, pipelines, or nuclear sites demonstrate before being supported?",
+    "ground_truth": "Development proposals within consultation zones around major accident hazard sites, major accident hazard pipelines, and nuclear sites must demonstrate, after consultation with the relevant consultation bodies, that the development will be safe for occupiers and users and will not impose constraints on the operation of the facility or facilities to which the safeguarded area or consultation zone relates. [Source: National Planning Policy, Policy P5]",
+    "source_chunk_id": "8efcbe206a70-0062",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Green Belt assessment guidance, which Green Belt purposes must be evaluated to identify areas of grey belt land, and where are these purposes defined?",
+    "ground_truth": "To identify areas of grey belt land, assessments must evaluate the contribution each area makes to Green Belt purposes (a), (b), and (d), which are defined in policy GB2. [Source: National Planning Policy, GB2]",
+    "source_chunk_id": "8efcbe206a70-0095",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Coventry Shopping and Centres Study (2014), how much gross new retail floor space is recommended to be provided across Coventry up to 2031, and how much of this is to be delivered within the city centre?",
+    "ground_truth": "The Coventry Shopping and Centres Study (2014) recommends the provision of around 107,000 sq.m of gross new retail floor space across Coventry up to 2031, with up to approximately 79,000 sq.m to be delivered within the city centre. [Source: Coventry Shopping and Centres Study (2014), as referenced in Coventry Planning Document, Section 4.10-4.11]",
+    "source_chunk_id": "ee7f6e7303bd-0009",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/City_Centre_Area_Action_Plan_2017 (1).pdf"
+  },
+  {
+    "question": "According to the Supplementary Planning Document, what must hot food takeaway applicants do if they wish to sell hot food and/or hot drink to the general public between 11 p.m. and 5 a.m.?",
+    "ground_truth": "Applicants must apply to the Council for a Premises License if they wish to sell hot food and/or hot drink to the general public between 11 p.m. and 5 a.m. [Source: Supplementary Planning Document, Section 5(a)]",
+    "source_chunk_id": "ccaf664cf6e8-0009",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Hot Food Takeaway SPD/Hot_Food_Takeaway_SPD_August_2019.pdf"
+  },
+  {
+    "question": "According to the Coventry City Council Willenhall Neighbourhood Plan: Final Decision Statement, what percentage of voters in the 3 May 2018 referendum were in favour of the plan?",
+    "ground_truth": "85.9% of those who voted in the 3 May 2018 referendum were in favour of the Willenhall Neighbourhood Plan. [Source: Coventry City Council Willenhall Neighbourhood Plan: Final Decision Statement, Section 3]",
+    "source_chunk_id": "7186e026d6ea-0000",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/5. Neighbourhood Plans/Approved Neighbourhood Areas/Willenhall Neighbourhood Area/Willenhall_Neighbourhood_Plan_Decision_Statement.pdf"
+  },
+  {
+    "question": "According to policy F4, when is a site-specific flood risk assessment required for development proposals in Flood Zone 1?",
+    "ground_truth": "Policy F4 states that in Flood Zone 1, a site-specific flood risk assessment is required for development proposals involving sites of 1 hectare or more, land identified by the Environment Agency as having critical drainage problems, land identified as being at increased flood risk in future, or land subject to current risk of flooding where a more vulnerable use is proposed. [Source: National Planning Policy, Policy F4]",
+    "source_chunk_id": "8efcbe206a70-0064",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Policy DP1 of the National Planning Policy, what should development plans do to set out clear design expectations?",
+    "ground_truth": "Policy DP1 of the National Planning Policy states that development plans should set out clear design expectations by ensuring the plan's vision reflects desired design and placemaking outcomes, identifying where design guides, codes, and masterplans are necessary, setting out locally-specific design policies or standards, and specifying when design review and other processes are required. [Source: National Planning Policy, Policy DP1]",
+    "source_chunk_id": "8efcbe206a70-0049",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to policy GB6, under what circumstances can inappropriate development in the Green Belt be approved?",
+    "ground_truth": "Policy GB6 states that inappropriate development in the Green Belt should not be approved except in very special circumstances, which will not exist unless the potential harm to the Green Belt is clearly outweighed by other considerations, and substantial weight should be given to any harm caused, including harm to openness. [Source: National Planning Policy, Policy GB6]",
+    "source_chunk_id": "8efcbe206a70-0046",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the National Planning Policy Framework, under what circumstances should the most up to date local housing need figure not be considered as evidence of unmet need for policy S5(1)(j)?",
+    "ground_truth": "If a local planning authority can demonstrate a five year supply of deliverable housing sites (with the appropriate buffer) and the Housing Delivery Test shows delivery of more than 75% of the housing requirement over the previous three years, the most up to date local housing need figure (if higher than the adopted plan's requirement) should not be considered as evidence of unmet need for five years from the plan’s adoption. [Source: National Planning Policy Framework, Policy S5(1)(j)]",
+    "source_chunk_id": "8efcbe206a70-0077",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the national planning policy, what is the minimum landbank period that must be maintained for sand and gravel, and for crushed rock, as stated in the development plan requirements?",
+    "ground_truth": "The development plan must allocate sites and/or identify preferred areas to maintain landbanks of at least 7 years for sand and gravel and at least 10 years for crushed rock. [Source: National Planning Policy, Section on Aggregate Minerals Provision]",
+    "source_chunk_id": "8efcbe206a70-0038",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Policy F6, in which flood zones should development proposals be refused if the use is incompatible with the risk from river or sea flooding, and where is this defined?",
+    "ground_truth": "Development proposals should be refused in flood zones 2, 3a, or 3b if the use is incompatible with the risk from river or sea flooding, as defined in Annex F, table 1 and table 3. [Source: National Planning Policy, Policy F6]",
+    "source_chunk_id": "8efcbe206a70-0065",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Coventry Local Plan Proposed Modifications, what is expected of new development proposals in relation to green infrastructure, and what must be demonstrated regarding habitat creation?",
+    "ground_truth": "New development proposals are expected to make provision for green infrastructure to integrate development into the landscape and contribute to connectivity, biodiversity, and other benefits. It must be demonstrated that new habitats are created wherever possible to assist with species movement and adaptation to climate change. [Source: Coventry Local Plan – Proposed Modifications, March 2017, Sustainability Appraisal/Strategic Environmental Assessment Addendum Report, Page 36]",
+    "source_chunk_id": "3f78a7d27907-0028",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/MOD14_SASEA_Final_Report___Local_Plan_Proposed_Modfications_2017.pdf"
+  },
+  {
+    "question": "According to Schedule 3 of the Nuneaton and Bedworth assessment against PPG2 Green Belt purposes, which site is identified as preventing the neighbouring towns of Nuneaton and Bedworth from merging into one another?",
+    "ground_truth": "Site NB3C is identified as preventing the neighbouring towns of Nuneaton and Bedworth from merging into one another. [Source: Schedule 3 - Nuneaton and Bedworth: Assessment of Sites Against PPG2 Green Belt Purposes]",
+    "source_chunk_id": "a0e2d33c683f-0010",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_3_-_PPG2_Purposes_Analysis.pdf"
+  },
+  {
+    "question": "According to the National Planning Policy Framework, what are the required parts of the development plan as listed in the plan-making policies section?",
+    "ground_truth": "The required parts of the development plan are: a spatial development strategy (by strategic planning authorities and the Mayor of London), a local plan (by a local planning authority), a minerals and waste plan (by a minerals and waste planning authority), and a policies map (by a local planning authority). [Source: National Planning Policy Framework, Plan-making policies section]",
+    "source_chunk_id": "8efcbe206a70-0003",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Town and Country Planning (Use Classes) Order 1987 (amended), which use class covers general industrial processes not falling within class E(g), and what activities are excluded from this class?",
+    "ground_truth": "Class B2 covers general industrial processes not falling within class E(g) (previously class B1), excluding incineration purposes, chemical treatment, or landfill or hazardous waste. [Source: Coventry Planning Document, Town and Country Planning (Use Classes) Order 1987 (amended) section]",
+    "source_chunk_id": "296778c2e612-0022",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Local Plan Review Evidence Base/Key stages of the Local Plan Review/LP Appendices 2023.pdf"
+  },
+  {
+    "question": "According to Policy CC9 of the City Centre Area Action Plan, what must all sites be treated as when calculating permissible discharge rates for flood risk assessments?",
+    "ground_truth": "Policy CC9 requires that all sites be treated as Greenfield sites when calculating permissible discharge rates for flood risk assessments. [Source: City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, Policy CC9]",
+    "source_chunk_id": "6c2face4814d-0049",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "According to Policy F8, what information must be provided for development proposals that could affect drainage?",
+    "ground_truth": "A statement outlining how the national SuDS standards have been achieved must be provided for development proposals which could affect drainage, as required by Policy F8. [Source: National Planning Policy, Policy F8]",
+    "source_chunk_id": "8efcbe206a70-0092",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Section 6.4 of the Air Quality SPD, how does having the SPD in place assist the Council in relation to site development and air quality?",
+    "ground_truth": "Section 6.4 of the Air Quality SPD states that having the SPD in place assists the Council in developing sites and regenerating the city while reducing the potential adverse effects of increased development on air quality. [Source: Air Quality Supplementary Planning Document, Section 6.4]",
+    "source_chunk_id": "1b1239c80251-0004",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Air Quality SPD/Cabinet_Member_Report_air_quality_SPD_final_draft_10_Dec_2018.pdf"
+  },
+  {
+    "question": "According to the Coventry City Council Authority Monitoring Report 2023/24, what percentage of net additional homes in 2023/24 was accounted for by Purpose Built Student Accommodation (PBSA)?",
+    "ground_truth": "PBSA accounted for 45% of net additional homes in 2023/24, as reported in the Coventry City Council Authority Monitoring Report 2023/24. [Source: Coventry City Council Authority Monitoring Report 2023/24, Paragraph 3.10]",
+    "source_chunk_id": "8b9b47690082-0005",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/6. Local Plan monitoring/Authority Monitoring Report (AMR)/Authority_Monitoring_Report_2023_24_PUBLISHED.pdf"
+  },
+  {
+    "question": "According to the Coventry Green Belt Review 2007, which schools have their built-up areas excluded from the Green Belt designation in the Woodlands Green Wedge?",
+    "ground_truth": "The built-up areas of Woodlands School and Tile Hill Wood School are excluded from the Green Belt designation in the Woodlands Green Wedge. [Source: Coventry Green Belt Review, 2007, Section 4.17.2]",
+    "source_chunk_id": "269075283f26-0024",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/coventry_green_belt_review.pdf"
+  },
+  {
+    "question": "According to Policy C1: Coventry City Centre – Development Strategy, what are some of the key principles for the continued development and regeneration of Coventry city centre?",
+    "ground_truth": "Policy C1 of the Coventry City Centre – Development Strategy outlines principles such as enhancing the city centre's role as a sub-regional focus, improving retail and leisure offers, providing high quality office space, preserving the historic built landscape, ensuring accessibility, integrating public transport, and supporting green and blue infrastructure. [Source: Coventry Planning Document, Policy C1]",
+    "source_chunk_id": "ee7f6e7303bd-0007",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/City_Centre_Area_Action_Plan_2017 (1).pdf"
+  },
+  {
+    "question": "According to the national planning policy, within how many months of publishing a Gateway 1 self-assessment should local plans be prepared and adopted?",
+    "ground_truth": "Local plans should be prepared and adopted within 30 months of publishing a Gateway 1 self-assessment. [Source: National Planning Policy, paragraph 2]",
+    "source_chunk_id": "8efcbe206a70-0005",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Biodiversity Net Gain SPD, which three statutory bodies must be consulted on the SEA screening report, and where is the screening opinion attached?",
+    "ground_truth": "The three statutory bodies that must be consulted on the SEA screening report are Historic England, Natural England, and the Environment Agency. The screening opinion is attached at Appendix 3 of the Biodiversity Net Gain SPD. [Source: Biodiversity Net Gain SPD, Appendix 3]",
+    "source_chunk_id": "9aa8456577ef-0002",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Biodiversity Net Gain SPD/Biodiversity_Net_Gain_SPD_Cabinet_Report.pdf"
+  },
+  {
+    "question": "What is the planned timescale for the A46 Strategic Link Road project as described in the Coventry Planning Document?",
+    "ground_truth": "The A46 Strategic Link Road project is planned with a timescale of 6 - 15 years. [Source: Coventry Planning Document, Infrastructure Delivery Table]",
+    "source_chunk_id": "296778c2e612-0010",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Local Plan Review Evidence Base/Key stages of the Local Plan Review/LP Appendices 2023.pdf"
+  },
+  {
+    "question": "According to PM16, what must a local authority demonstrate when a supplementary plan allocates multiple sites?",
+    "ground_truth": "PM16 states that where a supplementary plan allocates multiple sites, the local authority must reach a reasonable conclusion that the sites involved are nearby to each other. [Source: National Planning Policy, PM16]",
+    "source_chunk_id": "8efcbe206a70-0012",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to PM6, what requirements must all plan-makers follow to avoid unnecessary duplication when preparing plans?",
+    "ground_truth": "PM6 requires all plan-makers to only address matters and include policies that are necessary and relevant to the plan being prepared, and to avoid unnecessary duplication of other parts of the development plan. [Source: National Planning Policy, PM6]",
+    "source_chunk_id": "8efcbe206a70-0007",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to policy TC1, what steps should development plans take to promote the long-term vitality and viability of town centres?",
+    "ground_truth": "Policy TC1 requires development plans to be informed by a strategy for town centres, set out the hierarchy of centres and specific policy areas, allocate suitable sites for main town centre uses, consider vacant and intensifiable sites before expanding boundaries, allocate edge of centre sites if necessary, and set a locally defined floorspace threshold for impact assessments as per TC4. [Source: National Planning Policy, Policy TC1]",
+    "source_chunk_id": "8efcbe206a70-0033",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the National Planning Policy Framework, what is the minimum tenancy length required for large-scale shared living accommodation?",
+    "ground_truth": "Large-scale shared living accommodation must provide tenancies for a minimum of 3 months. [Source: National Planning Policy Framework, Glossary - Large-scale shared living accommodation]",
+    "source_chunk_id": "8efcbe206a70-0084",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Coventry Local Plan Inspector’s Report October 2017, how does the monitoring framework intend to measure progress in achieving the modal split and what will this information be used for?",
+    "ground_truth": "The monitoring framework will include indicators to measure impacts and mitigation measures of approved Transport Assessments (TAs) and assess the provision of transportation infrastructure; this information will be used to update the Infrastructure Delivery Plan (IDP), inform investment priorities through S106/CIL, and update the CASM to identify necessary remedial actions, including review of the Plan. [Source: Coventry Local Plan, Inspector’s Report October 2017, Examination Document MOD.10, MM151]",
+    "source_chunk_id": "c6f754c16f24-0044",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_Local_Plan_Final_Report_2017.pdf"
+  },
+  {
+    "question": "According to the City Centre Area Action Plan – Proposed Modifications, March 2017 Sustainability Appraisal/Strategic Environmental Assessment Addendum Report, what sequential process is recommended for mitigating adverse environmental effects?",
+    "ground_truth": "The mitigation hierarchy is recommended as a sequential process: first, avoid adverse effects if possible; if not, reduce the effect so it is no longer significant; if neither is feasible, apply mitigation measures such as policy changes, design guides, or offsetting biodiversity effects. [Source: City Centre Area Action Plan – Proposed Modifications, March 2017 Sustainability Appraisal/Strategic Environmental Assessment Addendum Report, Section 7.3]",
+    "source_chunk_id": "e19a696d0336-0021",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/MOD13_SASEA___CCAAP_Proposed_Modifications_2017.pdf"
+  },
+  {
+    "question": "What is the recommended Green Belt status for area NB6 according to this Coventry Planning Document, and what enhancement opportunities are suggested?",
+    "ground_truth": "The document recommends that NB6 is retained within the Green Belt and suggests further study to investigate enhancement opportunities such as improved public access. [Source: Coventry Planning Document, NB6 Conclusion/Recommendation section]",
+    "source_chunk_id": "5e75a2978c95-0026",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_11_-_Landscape_Value_Assessment.pdf"
+  },
+  {
+    "question": "According to policy CC1: Planning for climate change, what proactive approaches should development plans take to mitigate and adapt to climate change?",
+    "ground_truth": "Policy CC1: Planning for climate change requires development plans to proactively mitigate climate change and support the transition to net zero by proposing development patterns that reduce greenhouse gas emissions, avoid increased vulnerability, improve resilience, address specific climate risks, set local water efficiency standards (per policy PM13), and identify opportunities for green infrastructure and nature-based solutions. [Source: National Planning Policy, Policy CC1]",
+    "source_chunk_id": "8efcbe206a70-0021",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the 2015 Update referenced in the Coventry Planning Document, why did the Council decide not to make a UPC adjustment to the population projections for Coventry?",
+    "ground_truth": "The Council decided not to make a UPC adjustment because it is unclear if UPC is related to migration, may be due to changes in ONS methods, and any errors are likely focused on earlier periods, making a UPC adjustment for recent data inappropriate; thus, UPC is not a robust alternative to the SNPP. [Source: Coventry Planning Document, 2015 Update as referenced in paragraph 31]",
+    "source_chunk_id": "c6f754c16f24-0007",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_Local_Plan_Final_Report_2017.pdf"
+  },
+  {
+    "question": "According to the Coventry City Council Authority Monitoring Report 2024/25, what percentage of all dwellings in new residential schemes of 25 dwellings or more (excluding student accommodation) or more than 1 hectare are expected to be affordable homes, and which Local Plan policy is referenced?",
+    "ground_truth": "New residential schemes of 25 dwellings or more (excluding student accommodation), or more than 1 hectare, are expected to provide 25% of all dwellings as affordable homes, as referenced in Key Indicator H6. [Source: Coventry City Council Authority Monitoring Report 2024/25, Key Indicator H6]",
+    "source_chunk_id": "79772067251e-0006",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/6. Local Plan monitoring/Authority Monitoring Report (AMR)/Authority_Monitoring_Report_2024_25_Published.pdf"
+  },
+  {
+    "question": "According to Plan-making policy P1, what must development plans do to support clean and safe places regarding land allocation and pollution?",
+    "ground_truth": "Plan-making policy P1 requires development plans to allocate land where opportunities exist to improve local environmental conditions, ensure occupiers are not put at risk from unacceptable pollution, prevent development from causing unacceptable pollution, and consider wider opportunities to reduce air, water, soil, and noise pollution, while also reflecting consultation zones around hazardous sites. [Source: National Planning Policy, Policy P1]",
+    "source_chunk_id": "8efcbe206a70-0059",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to this national planning policy, what should authorities do when planning for community facilities and public service infrastructure in relation to local standards for outdoor recreational land?",
+    "ground_truth": "Authorities should set local standards for the provision of different types of outdoor recreational land, including play, sport, informal recreation, and allotments, drawing upon relevant national standards and best practice, and tailoring these to local circumstances and evidence. [Source: National Planning Policy, section referencing Green Infrastructure Standards and outdoor recreation standards]",
+    "source_chunk_id": "8efcbe206a70-0056",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Sustainability Appraisal/Strategic Environmental Assessment Addendum Report for the Coventry Local Plan, how many Sustainability Objectives were developed as part of the 2015 Scoping Report and are used to assess the Local Plan’s policies and proposals?",
+    "ground_truth": "20 Sustainability Objectives were developed as part of the 2015 Scoping Report and have been used throughout the document to assess the appraisal of the Local Plan’s policies and proposals. [Source: Coventry Local Plan – Proposed Modifications, March 2017 Sustainability Appraisal/Strategic Environmental Assessment Addendum Report, Table 3]",
+    "source_chunk_id": "3f78a7d27907-0006",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/MOD14_SASEA_Final_Report___Local_Plan_Proposed_Modfications_2017.pdf"
+  },
+  {
+    "question": "According to PM8 of the National Planning Policy, what must plan-makers avoid when preparing new or additional evidence after a plan has been submitted for examination?",
+    "ground_truth": "PM8 of the National Planning Policy states that plan-makers must not prepare new or additional evidence after a plan has been submitted for examination, unless requested to do so by an appointed Inspector or examiner. [Source: National Planning Policy, PM8(2)(e)]",
+    "source_chunk_id": "8efcbe206a70-0008",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Policy CC8 of the Coventry City Centre Area Action Plan, what must developments adjacent to the Ring Road do regarding green infrastructure?",
+    "ground_truth": "Policy CC8 requires that developments adjacent to the Ring Road maximise all opportunities to develop the greening of vertical surfaces as far as reasonably possible. [Source: Coventry City Centre Area Action Plan, Policy CC8]",
+    "source_chunk_id": "6c2face4814d-0029",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "What recommendation is made regarding the retention of area K9 within the Green Belt, and what is the rationale provided?",
+    "ground_truth": "The recommendation is that K9 should be wholly retained within the Green Belt because it is considered an important part of the strategic gap between Kenilworth and Coventry, with historical and ecological value, and further development is not supported. [Source: Coventry Planning Document, Schedule 7: Landscape Value Assessment]",
+    "source_chunk_id": "5e75a2978c95-0021",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_11_-_Landscape_Value_Assessment.pdf"
+  },
+  {
+    "question": "According to the SPD, what is the amended width range for edge roads, and what factors determine the exact width within this range?",
+    "ground_truth": "The SPD amends the width of edge roads to a range of 4.5-6.8m, with the exact width depending on the location of the footpath or cycleway relative to the road. [Source: Supplementary Planning Document, Page 40]",
+    "source_chunk_id": "d82df0ca776a-0014",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Sustainable Urban Extension SPD/Appendix_2___Consultation_Statement___SUE_Design_Guidance.pdf"
+  },
+  {
+    "question": "According to this policy, which features must development proposals incorporate to support healthy, mixed, vibrant, and integrated communities, and which section of the Design and Placemaking planning practice guidance describes these features?",
+    "ground_truth": "Development proposals must incorporate a range of uses and tenures, employ features that promote social interaction, and ensure robustness, durability, and ease of maintenance to support healthy, mixed, vibrant, and integrated communities. These features are described in Part 1 of the Design and Placemaking planning practice guidance, specifically points b to f, which form the seven features of well-designed places. [Source: National Planning Policy, Design and Placemaking planning practice guidance Part 1, points b to f]",
+    "source_chunk_id": "8efcbe206a70-0050",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the City Centre Area Action Plan – Proposed Modifications, March 2017 Sustainability Appraisal/Strategic Environmental Assessment Addendum Report, what approach has been adopted to predict and evaluate the effects of the Proposed Modifications, and what scale is used?",
+    "ground_truth": "A qualitative approach has been adopted to predict and evaluate the effects of the Proposed Modifications, and the appraisal uses a specific scale in line with current practice. [Source: City Centre Area Action Plan – Proposed Modifications, March 2017 Sustainability Appraisal/Strategic Environmental Assessment Addendum Report, Section 6.2]",
+    "source_chunk_id": "e19a696d0336-0009",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/MOD13_SASEA___CCAAP_Proposed_Modifications_2017.pdf"
+  },
+  {
+    "question": "According to the 2013 SHMA and its 2015 Update referenced in the Inspector’s Report, what was Coventry's affordability ratio within the HMA, and how did house prices in Coventry change in real terms since 2008?",
+    "ground_truth": "The 2013 SHMA found Coventry to be the most affordable area within the HMA, with an affordability ratio of 4.7, which is below national averages. House prices in Coventry have fallen in real terms since 2008, resulting in notable improvements in affordability. [Source: Coventry Local Plan, Inspector’s Report October 2017, paragraphs 38-39]",
+    "source_chunk_id": "c6f754c16f24-0009",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_Local_Plan_Final_Report_2017.pdf"
+  },
+  {
+    "question": "According to the Inspector’s Report on the Coventry Local Plan, what is the projected number of vehicular trips generated in the AM peak by the 3,100 houses at the Keresley SUE site, and which policy ensures each phase of development is supported by travel planning and assessment?",
+    "ground_truth": "The Inspector’s Report states that 3,100 houses at the Keresley SUE site would generate 1,680 vehicular trips in the AM peak, and Policy AC3 ensures each phase of development is supported by appropriate and timely travel planning and assessment. [Source: Coventry Local Plan, Inspector’s Report October 2017, Policy AC3]",
+    "source_chunk_id": "c6f754c16f24-0034",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_Local_Plan_Final_Report_2017.pdf"
+  },
+  {
+    "question": "According to the Inspector’s Report on the Coventry Local Plan, what supply of housing land does the SHLAA demonstrate under the Liverpool and Sedgefield approaches using the 'phased' (stepped trajectory) method?",
+    "ground_truth": "The SHLAA demonstrates a 6.05 years’ supply under the Liverpool assessment and a 6.07 years’ supply under the Sedgefield approach using the 'phased' (stepped trajectory) method. [Source: Coventry Local Plan, Inspector’s Report October 2017, Paragraph 77]",
+    "source_chunk_id": "c6f754c16f24-0019",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_Local_Plan_Final_Report_2017.pdf"
+  },
+  {
+    "question": "According to the Coventry Sports Strategy 2014 - 2024, which organisation is identified as the primary monitor and evaluator of progress on implementing the Strategy?",
+    "ground_truth": "The Coventry Sports Strategy 2014 - 2024 identifies Coventry City Council as the primary monitor and evaluator of progress on implementing the Strategy. [Source: Coventry Sports Strategy 2014 - 2024, Page 2]",
+    "source_chunk_id": "58ed61881f03-0001",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Communities/LP65_coventry_sports_strategy.pdf"
+  },
+  {
+    "question": "According to the provided policy, what is the minimum discount required for discounted market sales housing, and what provisions must be in place regarding future eligible households?",
+    "ground_truth": "Discounted market sales housing must be sold at a discount of at least 20% below local market value, and provisions should be in place to ensure the housing remains at a discount for future eligible households. [Source: National Planning Policy, Affordable Housing Definitions Section]",
+    "source_chunk_id": "8efcbe206a70-0079",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Policy E3: Freight and logistics, what are the key requirements for development proposals for freight and logistics uses and associated infrastructure?",
+    "ground_truth": "Policy E3: Freight and logistics requires that development proposals for freight and logistics uses and associated infrastructure have good access to transport networks, are sited and designed to limit environmental impacts and ensure acceptable impacts on local residents, and provide sufficient and secure parking for lorries or other vehicles. [Source: National Planning Policy, Policy E3]",
+    "source_chunk_id": "8efcbe206a70-0032",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Coventry Planning Document, what changes are being made to Policy GB1 regarding Local Green Space management?",
+    "ground_truth": "Policy GB1 is being amended to include additional criteria and supporting text clarifying that small buildings and structures are acceptable within Local Green Space only if they are ancillary to its primary use, and to strengthen the intention of designating new Local Green Space in key sites such as Whitley, Keresley, Eastern Green, and the Heritage Park. [Source: Coventry Planning Document, Policy GB1]",
+    "source_chunk_id": "3f78a7d27907-0012",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/MOD14_SASEA_Final_Report___Local_Plan_Proposed_Modfications_2017.pdf"
+  },
+  {
+    "question": "According to the City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report (January 2016), what long-term positive impacts does the AAP have on health and active lifestyles?",
+    "ground_truth": "The AAP has the long-term potential to improve health through the promotion of more sustainable modes of transport and the provision of more recreational facilities, including cycling and walking routes that provide opportunities for active lifestyles. [Source: City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, January 2016, Page 31]",
+    "source_chunk_id": "6c2face4814d-0023",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "According to the City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, January 2016, how many sustainability objectives were identified in the Sustainability Appraisal Framework, and what types of issues do they cover?",
+    "ground_truth": "The Sustainability Appraisal Framework identified 20 sustainability objectives covering environmental, economic, and social issues such as poverty, housing provision, biodiversity, waste generation, energy conservation, climate change, economic growth, education, transport, and nature conservation. [Source: City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, January 2016, Section 1.4-1.5]",
+    "source_chunk_id": "6c2face4814d-0001",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "According to section 3.3 of the report, what does Regulation 12 of the Town and Country Planning (Local Planning) (England) Regulations 2012 require before a local planning authority can adopt an SPD?",
+    "ground_truth": "Regulation 12 requires that, before adopting an SPD, a local planning authority must prepare a statement setting out the persons consulted during the preparation of the document, a summary of the main issues raised, and how these have been addressed in the SPD. [Source: Supplementary Planning Document, section 3.3]",
+    "source_chunk_id": "a52e9e93e98b-0002",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Householder Design Guide SPD/Householder_Design_Guide_SPD_Report___Cabinet_11th_April_2023.pdf"
+  },
+  {
+    "question": "According to the Coventry Statement of Community Involvement July 2021, how often will the Council update its Local Development Scheme and report on progress?",
+    "ground_truth": "The Council will update its Local Development Scheme at least annually, or when there are significant changes to the timescales or plans being prepared, and will report on progress through its annual Authorities Monitoring Report. [Source: Coventry Statement of Community Involvement July 2021, Section on Consultation and Engagement]",
+    "source_chunk_id": "55fc01b6f288-0001",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/8. Statement of Community Involvement (SCI)/Statement_of_Community_Involvement_July_2021.pdf"
+  },
+  {
+    "question": "According to the glossary in the Coventry Local Plan – Proposed Modifications, March 2017, what is the definition of 'Affordable Housing'?",
+    "ground_truth": "Affordable Housing is defined as dwellings at rent or price that can be afforded by people who are in housing need and would otherwise be accommodated by the City Council. [Source: Coventry Local Plan – Proposed Modifications, March 2017, Appendix III: Glossary of Terms]",
+    "source_chunk_id": "3f78a7d27907-0063",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/MOD14_SASEA_Final_Report___Local_Plan_Proposed_Modfications_2017.pdf"
+  },
+  {
+    "question": "According to the proposed amendment to Policy DS1 of the Coventry Local Plan, by what date must a report be presented to Council to review the Plan's progress, evidence base, and Duty to Cooperate aspects?",
+    "ground_truth": "A report must be presented to Council by March 31st 2021 to review the Plan's progress, its evidence base, and its Duty to Cooperate aspects to determine whether a Plan review is required. [Source: Coventry Local Plan, Proposed Modifications, Policy DS1]",
+    "source_chunk_id": "3f78a7d27907-0011",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/MOD14_SASEA_Final_Report___Local_Plan_Proposed_Modfications_2017.pdf"
+  },
+  {
+    "question": "According to National decision-making policy E2, what factors should be considered when a development proposal is required to demonstrate whether an unmet need exists, including compliance with policy S5?",
+    "ground_truth": "Policy E2 states that consideration should be given to market signals indicating an undersupply of specific types of land or premises, the anticipated catchment area, changing sector needs, availability of existing land and buildings, and whether the proposal’s specific locational requirements are met by existing allocations in the development plan. [Source: National Planning Policy, Policy E2]",
+    "source_chunk_id": "8efcbe206a70-0031",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to National decision-making policy W3, are applicants required to demonstrate the need for renewable or low carbon energy development and electricity network infrastructure?",
+    "ground_truth": "Policy W3 states that applicants should not be required to demonstrate the need for renewable or low carbon energy development and electricity network infrastructure. [Source: National Planning Policy, Policy W3]",
+    "source_chunk_id": "8efcbe206a70-0037",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the report, what is identified as a key method to address development viability problems in the West Midlands, and how does it impact land values?",
+    "ground_truth": "The report identifies infrastructure investment as a key method to address development viability problems in the West Midlands, stating that infrastructure provision can increase demand for land and thus values, making development more viable. [Source: West Midlands Combined Authority Using infrastructure to reinforce housing and job site delivery, Section 5]",
+    "source_chunk_id": "847692b7d044-0004",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Infrastructure/150915_WMCA_Infrastructure_Final_Report.pdf"
+  },
+  {
+    "question": "According to the National Planning Policy, how is a 'transport assessment' defined and what does it identify in relation to proposed developments?",
+    "ground_truth": "A 'transport assessment' is defined as a comprehensive and systematic process that considers and sets out transport issues relating to a proposed development, identifying measures required to support alternatives to the car such as walking, wheeling, cycling and public transport, and to promote accessibility and safety, together with measures needed to deal with anticipated transport impacts. [Source: National Planning Policy, Definitions Section]",
+    "source_chunk_id": "8efcbe206a70-0091",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Coventry Connected (Transport) SPD, how can co-locating services such as primary health, social care, dentistry, and pharmacies improve service delivery?",
+    "ground_truth": "The Coventry Connected (Transport) SPD states that co-locating services like primary health, social care, dentistry, and pharmacies can improve the effectiveness and efficiency of service delivery. [Source: Coventry Connected (Transport) SPD]",
+    "source_chunk_id": "81922591babc-0008",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf"
+  },
+  {
+    "question": "According to the Coventry Green Belt Review 2007, why is sub-area b) near the Toll Bar junction considered unsuitable for Green Belt release or built development?",
+    "ground_truth": "Sub-area b) near the Toll Bar junction is unsuitable for Green Belt release or built development because it is part of a larger Local Nature Reserve (LNR), is highly visible, does not relate to the built-up area, and lies within the substantial floodplain of the River Avon. [Source: Coventry Green Belt Review, 2007, Section 4.8.3]",
+    "source_chunk_id": "269075283f26-0019",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/coventry_green_belt_review.pdf"
+  },
+  {
+    "question": "According to the planning document, what is the primary benefit of retaining green belt land in parcel C7C?",
+    "ground_truth": "Retention of green belt land in parcel C7C contributes to preventing sprawl from Brandon, prevents Binley Woods from merging with Brandon, safeguards the countryside against encroachment, preserves the setting of Brandon Village, and encourages recycling of derelict and other urban land. [Source: Coventry Planning Document, C7C]",
+    "source_chunk_id": "a0e2d33c683f-0003",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_3_-_PPG2_Purposes_Analysis.pdf"
+  },
+  {
+    "question": "What were the dates of the initial round of consultation undertaken for the Hot Food Takeaway Supplementary Planning Document as stated in the document?",
+    "ground_truth": "The initial round of consultation for the Hot Food Takeaway Supplementary Planning Document was undertaken between 8th August 2018 and 21st September 2018. [Source: Hot Food Takeaway Supplementary Planning Document, Section 3.1]",
+    "source_chunk_id": "0578f0eb96f2-0002",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Hot Food Takeaway SPD/Cabinet_Member_Report_for_HFT_SPD_for_10.12.18.pdf"
+  },
+  {
+    "question": "According to National decision-making policy CO1, what are the requirements for siting and designing new telecommunications infrastructure proposals?",
+    "ground_truth": "Policy CO1 requires that new telecommunications infrastructure proposals should use existing masts, buildings, and structures where possible, and be sited and designed to minimise visual impact, especially when a new site or structure is proposed. [Source: National Planning Policy, Policy CO1]",
+    "source_chunk_id": "8efcbe206a70-0035",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the assessment in this document, does site NB7B contribute to preventing Bedworth and Nuneaton from merging into one another?",
+    "ground_truth": "Yes, site NB7B contributes to preventing Bedworth and Nuneaton from merging into one another. [Source: Coventry Planning Document, NB7B section]",
+    "source_chunk_id": "a0e2d33c683f-0012",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_3_-_PPG2_Purposes_Analysis.pdf"
+  },
+  {
+    "question": "According to Section 3.3 of the City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, what guidance and report form the basis for the Sustainability Appraisal Framework used to appraise Local Development Documents in Coventry?",
+    "ground_truth": "Section 3.3 states that the Sustainability Appraisal Framework is based on the guidance 'Sustainability Appraisal of Regional Spatial Strategies and Local Development Frameworks' by the Department for Communities and Local Government and Coventry’s Sustainability Appraisal Scoping Report (2015). [Source: City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, Section 3.3]",
+    "source_chunk_id": "6c2face4814d-0007",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "According to the SPD, what additional clarification has been added to Page 80 regarding the requirement for the two SUE areas to deliver a net gain in biodiversity?",
+    "ground_truth": "An additional sentence has been added to Page 80 of the SPD to clarify that the requirement for the two SUE areas to deliver a net gain in biodiversity is supported through wider Local Plan policy GE3. [Source: Keresley SUE Supplementary Planning Document, Page 80]",
+    "source_chunk_id": "d82df0ca776a-0001",
+    "document_class": "Supplementary Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Sustainable Urban Extension SPD/Appendix_2___Consultation_Statement___SUE_Design_Guidance.pdf"
+  },
+  {
+    "question": "According to the Inspector’s Report October 2017 for the Coventry Local Plan, what is the Council required to do with the adopted policies map upon adoption of the Plan?",
+    "ground_truth": "Upon adoption of the Plan, the Council must update the adopted policies map to include all the changes proposed in examination document MOD.3 and the further changes published alongside the main modifications (MMs). [Source: Coventry Local Plan, Inspector’s Report October 2017, paragraphs 6-7]",
+    "source_chunk_id": "c6f754c16f24-0002",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_Local_Plan_Final_Report_2017.pdf"
+  },
+  {
+    "question": "According to the Coventry Planning Document, what design guidance is proposed to be incorporated into local plan policy to accommodate an ageing population and promote generational community mixing?",
+    "ground_truth": "The document proposes incorporating the outcomes of HAPPI design guidance into local plan policy to accommodate an ageing population and positively promote generational community mixing in master planning. [Source: Coventry Planning Document, discussion of embedding social sustainability principles]",
+    "source_chunk_id": "2c883abdc056-0004",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Local Plan Review Evidence Base/Key stages of the Local Plan Review/Topic Paper Design.pdf"
+  },
+  {
+    "question": "According to paragraph 16 of the National Planning Policy Framework, what are the three overarching objectives of the planning system in achieving sustainable development?",
+    "ground_truth": "Paragraph 16 of the National Planning Policy Framework states that the three overarching objectives of the planning system in achieving sustainable development are: an economic objective, a social objective, and an environmental objective. [Source: National Planning Policy Framework, paragraph 16]",
+    "source_chunk_id": "8efcbe206a70-0002",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Policy HO5, what is the minimum proportion of new housing that must be delivered to Building Regulations requirement M4(2) or M4(3) standards over the course of the plan?",
+    "ground_truth": "Policy HO5 requires that at least 40% of new housing delivered over the course of the plan must be to Building Regulations requirement M4(2) or M4(3) standards. [Source: National Planning Policy, Policy HO5]",
+    "source_chunk_id": "8efcbe206a70-0026",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the policy, does Purpose B for preventing neighbouring towns merging into one another apply to villages?",
+    "ground_truth": "Purpose B specifically relates to the merging of towns, not villages, and for this purpose, 'towns' includes cities. [Source: National Planning Policy, Purpose B, paragraph 4]",
+    "source_chunk_id": "8efcbe206a70-0096",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to Policy DM1, what are the requirements for major development proposals before submitting a planning application?",
+    "ground_truth": "Policy DM1 requires that major development proposals be informed by early engagement with neighbours, the local community, the local planning authority, statutory consultees, and other relevant bodies, and be accompanied by a concise planning statement detailing policy consistency, outcomes of engagement, and proposed planning obligations. [Source: National Planning Policy, Policy DM1]",
+    "source_chunk_id": "8efcbe206a70-0013",
+    "document_class": "National Planning Policy",
+    "region": "UK",
+    "source_path": "general/Draft_NPPF_December_2025.pdf"
+  },
+  {
+    "question": "According to the Coventry Green Belt Review, 2007, what is the principal focus for the assessment of Green Belt land within Coventry's boundaries?",
+    "ground_truth": "The principal focus for the assessment is the two areas of search for planned expansion of the urban area identified in the Coventry LDF Core Strategy Options Report, July 2007. [Source: Coventry Green Belt Review, 2007, paragraph 1.7]",
+    "source_chunk_id": "269075283f26-0001",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/coventry_green_belt_review.pdf"
+  },
+  {
+    "question": "According to the Coventry Green Belt Review 2007, what is the recommended change to the Green Belt boundary at Cromwell Lane as referenced in Map 6?",
+    "ground_truth": "The Coventry Green Belt Review 2007 recommends a minor alteration to the Green Belt boundary at Cromwell Lane (see Map 6) to regularise the situation by excluding existing housing in this area from within the Green Belt. [Source: Coventry Green Belt Review, 2007, Section 5.7.4]",
+    "source_chunk_id": "269075283f26-0030",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/coventry_green_belt_review.pdf"
+  },
+  {
+    "question": "According to the Coventry Planning Document, which Green Belt areas contribute to restricting sprawl from the North of Leamington Spa, and what barriers are noted for safeguarding the countryside?",
+    "ground_truth": "Areas WL6A, WL6B, WL7, and WL8 contribute to restricting sprawl from the North of Leamington Spa. For WL6A and WL6B, the rail line, Blackdown, the A452, and the B4113 are noted as barriers to safeguarding the countryside from encroachment. [Source: Coventry Planning Document, WL6A, WL6B, WL7, WL8 section]",
+    "source_chunk_id": "a0e2d33c683f-0014",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_3_-_PPG2_Purposes_Analysis.pdf"
+  },
+  {
+    "question": "According to Policy CC25 of the Coventry City Centre Area Action Plan, what types of uses are primarily promoted for new development within the Bishop Street and Fairfax Street regeneration areas?",
+    "ground_truth": "Policy CC25 of the Coventry City Centre Area Action Plan primarily promotes new residential development in a range of types and tenures within the Bishop Street and Fairfax Street regeneration areas, but also allows for a range of other uses including office, retail, commercial, social, community, leisure, education, multi-storey car parking, and green/blue infrastructure, subject to conformity with other parts of the AAP. [Source: Coventry City Centre Area Action Plan, Policy CC25]",
+    "source_chunk_id": "6c2face4814d-0041",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "According to Policy CC24 of the City Centre Area Action Plan, what is the minimum number of new homes that must be provided through the redevelopment of the Priory Halls and Foundation Campus building at Priory Street?",
+    "ground_truth": "Policy CC24 of the City Centre Area Action Plan requires that the redevelopment of the Priory Halls and Foundation Campus building at Priory Street should make provision for at least 85 new homes. [Source: City Centre Area Action Plan, Policy CC24]",
+    "source_chunk_id": "6c2face4814d-0060",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf"
+  },
+  {
+    "question": "What is the recommended status of Study Area WL7 in terms of Green Belt retention, and what is the justification provided?",
+    "ground_truth": "The recommendation is that Study Area WL7 should be wholly retained within the Green Belt, as the existing road system strongly defines the settlement pattern and urban expansion into this area would be difficult to justify. [Source: Coventry Planning Document, Study Area WL7 Conclusion/Recommendation]",
+    "source_chunk_id": "5e75a2978c95-0032",
+    "document_class": "Coventry Planning Document",
+    "region": "Coventry",
+    "source_path": "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/Appendix_11_-_Landscape_Value_Assessment.pdf"
+  }
+]

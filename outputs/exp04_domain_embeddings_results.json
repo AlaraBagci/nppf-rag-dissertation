@@ -1,0 +1,29 @@
+{
+  "experiment": "exp04_domain_embeddings",
+  "description": "Domain embedding comparison: LEGAL-BERT vs fine-tuned BGE",
+  "retrieval_pipeline": "BM25 + Domain Embeddings → RRF → BAAI/bge-reranker-v2-m3",
+  "models": {
+    "legal_bert": {
+      "label": "LEGAL-BERT",
+      "model_name": "nlpaueb/legal-bert-base-uncased",
+      "ragas_aggregate": {
+        "faithfulness": 0.9517316017316018,
+        "answer_relevancy": 0.9091869369820572,
+        "context_precision": 0.9321990740099666,
+        "context_recall": 0.9666666666666667,
+        "citation_quality": 0.935
+      }
+    },
+    "finetuned_bge": {
+      "label": "Fine-tuned BGE",
+      "model_name": "outputs/bge-planning-finetuned",
+      "ragas_aggregate": {
+        "faithfulness": 0.9431349206349205,
+        "answer_relevancy": 0.9245187451744122,
+        "context_precision": 0.9222916666073849,
+        "context_recall": 1.0,
+        "citation_quality": 0.9600000000000001
+      }
+    }
+  }
+}

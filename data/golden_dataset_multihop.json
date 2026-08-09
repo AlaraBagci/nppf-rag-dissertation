@@ -1,0 +1,602 @@
+[
+  {
+    "question": "How does the Coventry Local Plan's approach to promoting local food access and employment opportunities relate to the NPPF's requirement for plan-making authorities to cooperate on cross-boundary infrastructure and optimal locations for growth?",
+    "ground_truth": "The Coventry Local Plan highlights the importance of supporting local food supply, community food growing spaces, and accessible employment as means to improve health and well-being, which can be influenced by the location and diversity of facilities. The NPPF requires plan-making authorities to cooperate with other bodies to address cross-boundary infrastructure needs and determine optimal locations for growth, including employment and connected places, ensuring that such local priorities are aligned with wider strategic planning and infrastructure provision. [Sources: NPPF PM10; Coventry Local Plan Supplementary Planning Document]",
+    "source_chunk_ids": [
+      "81922591babc-0012",
+      "8efcbe206a70-0009"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does Coventry's City Centre Area Action Plan for the Primary Shopping Area align with the NPPF's requirement for local plans to define the location and boundaries of town centres and plan for development within those areas?",
+    "ground_truth": "Coventry's City Centre Area Action Plan focuses new shopping developments and regeneration efforts within the defined Primary Shopping Area, specifying the amount and type of new floor space and supporting a mix of uses to enhance city centre vitality. This approach aligns with the NPPF's requirement that local plans clearly identify the location and boundaries of town centres and plan for development within those areas, as part of a spatial strategy illustrated on a policies map. [Sources: Coventry City Centre Area Action Plan, Policy CC19 and supporting text; NPPF, national decision-making policies and spatial strategy guidance]",
+    "source_chunk_ids": [
+      "6c2face4814d-0056",
+      "8efcbe206a70-0018"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Local Plan's emphasis on providing accessible social infrastructure and adaptable housing relate to the NPPF's requirements for viability assessments when development proposals may face unforeseen costs or changed circumstances?",
+    "ground_truth": "The Coventry Local Plan highlights the importance of accessible social infrastructure and adaptable housing as essential for sustainable communities, which may require significant contributions from developers. The NPPF states that while such policy requirements are assumed viable, if unforeseen costs or changed circumstances arise, a viability assessment may be justified to ensure maximum possible contributions to affordable housing and infrastructure, referencing the original viability assumptions in the plan. [Sources: Coventry Local Plan, Development Policy and Sustainable Urban Extension Design Guide SPD; NPPF viability assessment guidance]",
+    "source_chunk_ids": [
+      "81922591babc-0007",
+      "8efcbe206a70-0015"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Health Impact Assessment SPD build upon the national policy's emphasis on creating well-designed, attractive, and healthy places by requiring applicants to assess and mitigate health impacts in all proposed developments?",
+    "ground_truth": "The national policy highlights the importance of securing well-designed, attractive, and healthy places when making efficient use of land for development. The Coventry Health Impact Assessment SPD builds upon this by specifically requiring applicants to identify and mitigate potential negative health impacts through a Health Impact Assessment for all proposed developments, thus operationalising the national objective at the local level. [Sources: National Planning Policy L3; Coventry Health Impact Assessment SPD]",
+    "source_chunk_ids": [
+      "81922591babc-0000",
+      "8efcbe206a70-0043"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Healthy Development Template process in Coventry's Supplementary Planning Document align with the national requirement that supplementary plans must have regard to national policies without duplicating or restating them, particularly in relation to health and wellbeing considerations in plan-making?",
+    "ground_truth": "The Healthy Development Template in Coventry's Supplementary Planning Document supports the design of proposed developments by encouraging early assessment and mitigation of significant health impacts, which aligns with the national requirement that supplementary plans must have regard to national policies and guidance without duplicating or restating them. This approach ensures that local health and wellbeing considerations are integrated into planning without conflicting with or repeating national policy content, as required by the national framework for supplementary plans. [Sources: Coventry Supplementary Planning Document; National Planning Policy (UK)]",
+    "source_chunk_ids": [
+      "81922591babc-0006",
+      "8efcbe206a70-0012"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Hot Food Takeaway Supplementary Planning Document (SPD) address the national policy guidance on using Article 4 directions to prevent over-concentration of certain uses, and what evidence base does it use to justify its approach?",
+    "ground_truth": "The Coventry Hot Food Takeaway SPD addresses national policy by considering over-concentration and clustering of hot food takeaways, in line with national guidance that Article 4 directions should be used to prevent over-concentration of uses affecting local amenity or wellbeing, and must be based on robust evidence. The SPD uses the national average as a threshold and measures concentration at the LSOA level, citing evidence of the impact of high concentrations of hot food takeaways on obesity to justify its approach. [Sources: Coventry HFT SPD; National Planning Policy DM10]",
+    "source_chunk_ids": [
+      "4181dda66e5e-0007",
+      "8efcbe206a70-0017"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Hot Food Takeaway SPD/appendix_2___Consultation_Statement___HFT.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Hot Food Takeaway Supplementary Planning Document (SPD) support the national policy objective of integrating development with and enhancing heritage assets, particularly in relation to the design and positioning of shop fronts and extraction flumes?",
+    "ground_truth": "The Coventry Hot Food Takeaway SPD provides technical guidance to ensure that shop fronts and extraction flumes are appropriately positioned and designed to minimise impacts on heritage assets, thereby supporting the national policy objective of integrating development into and enhancing its surroundings, including the restoration and integration of heritage assets. This level of detail in the SPD helps implement the national policy's emphasis on sensitive design in relation to heritage, which is not fully covered in the Local Plan alone. [Sources: Coventry Hot Food Takeaway SPD; National Planning Policy]",
+    "source_chunk_ids": [
+      "0578f0eb96f2-0002",
+      "8efcbe206a70-0050"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Hot Food Takeaway SPD/Cabinet_Member_Report_for_HFT_SPD_for_10.12.18.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Health Impact Assessment SPD build upon the national planning policy's emphasis on liveability and healthy communities in the design of new developments?",
+    "ground_truth": "The Coventry Health Impact Assessment SPD operationalises the national policy's focus on liveability and healthy, vibrant communities by requiring applicants to assess and mitigate potential health impacts of developments through a Health Impact Assessment (HIA) and the use of a health toolkit. This approach ensures that new developments not only support healthy communities as encouraged by national policy, but also actively identify, record, and address both positive and negative health impacts during the planning process. [Sources: NPPF extract (liveability and healthy communities); Coventry HIA SPD]",
+    "source_chunk_ids": [
+      "81922591babc-0000",
+      "8efcbe206a70-0050"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Air Quality Local Plan's emphasis on clearer requirements for air quality monitoring and assessments interact with the NPPF's guidance on viability assessments, particularly when additional monitoring or mitigation measures may impose unforeseen costs on development proposals?",
+    "ground_truth": "The Coventry Air Quality Local Plan clarifies requirements for air quality monitoring and assessments, potentially increasing the costs for developers to comply with local air quality standards. According to the NPPF, if such requirements result in development being demonstrably burdened by unforeseeable costs not anticipated in the original development plan viability assessment, a viability assessment may be justified to inform decision-making and ensure that developments still contribute to affordable housing and infrastructure as much as possible. [Sources: NPPF; Coventry Air Quality Local Plan (SPD)]",
+    "source_chunk_ids": [
+      "10b2b82c1fc7-0003",
+      "8efcbe206a70-0015"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Air Quality SPD/appendix_2___Consultation_Statement___Air_Quality.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does Coventry's Policy CC22 on maintaining a high proportion of A1 retail uses in primary frontages align with national policy guidance on supporting the vitality and viability of town centres through plan-making and the use of Article 4 directions?",
+    "ground_truth": "Coventry's Policy CC22 requires that a clear majority of primary frontages remain as A1 retail uses, only allowing reductions below 60% in exceptional circumstances and never below 51%, which aims to support the vitality and viability of the city centre. This approach aligns with national policy guidance that encourages local authorities to protect local amenity and the wellbeing of areas, including town centres, by preventing over-concentration of non-retail uses and planning positively for growth and sustainable development. Both policies emphasize maintaining a vibrant town centre through careful management of uses and robust evidence-based planning. [Sources: NPPF DM10, S1; Coventry City Centre Area Action Plan Policy CC22]",
+    "source_chunk_ids": [
+      "6c2face4814d-0058",
+      "8efcbe206a70-0017"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Health Impact Assessment Supplementary Planning Document (SPD) ensure that health impacts are considered in development proposals, and how does this requirement interact with the national policy's approach to viability assessments when determining whether a development can meet all policy expectations?",
+    "ground_truth": "The Coventry HIA SPD requires applicants to assess and mitigate potential negative health impacts in all development proposals, encouraging the use of a health toolkit to inform design and decision-making. National policy states that viability assessments may be used only in limited circumstances to justify deviations from policy requirements, and such assessments must refer back to those that informed the development plan, ensuring that policy expectations—such as those for health impacts—are not set aside without robust justification. [Sources: Coventry HIA SPD; National Planning Policy (UK)]",
+    "source_chunk_ids": [
+      "81922591babc-0000",
+      "8efcbe206a70-0015"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Supplementary Planning Document (SPD) align with national policy objectives for supporting clean energy and climate change mitigation in new development, as outlined in the national planning policy on energy and water infrastructure?",
+    "ground_truth": "The Coventry SPD supports national policy objectives by providing design guidance that ensures positive environmental benefits, including climate change mitigation, are achieved in new residential development, which aligns with the national policy's emphasis on supporting clean energy, net zero objectives, and infrastructure provision for energy and water. Both documents highlight the importance of planning policy in delivering sustainable, cleaner, and greener development outcomes. [Sources: Coventry SPD; National Planning Policy, Securing clean energy and water]",
+    "source_chunk_ids": [
+      "e114020a353f-0003",
+      "8efcbe206a70-0036"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/New Residential Development Design Guide SPD/New_Residential_Development_DG___Cabinet_report.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry planning document ensure the provision and enhancement of community facilities in new development areas, and how does this align with the national policy's requirements for retaining or replacing key community facilities and public service infrastructure?",
+    "ground_truth": "The Coventry planning document requires that education, social, and community facilities be assessed and that the need for additional facilities be identified as an integral part of any development brief, ensuring new developments are supported by adequate community infrastructure. This aligns with the national policy, which stipulates that development proposals should not result in the loss of key community facilities unless they are replaced by equivalent or better provision with comparable or improved accessibility for the community. [Sources: Coventry Planning Document, Section 4.2.7; National Planning Policy, HC6]",
+    "source_chunk_ids": [
+      "269075283f26-0012",
+      "8efcbe206a70-0058"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Joint Green Belt Study 2009/coventry_green_belt_review.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Local Plan's justification for releasing Green Belt land to accommodate housing and employment needs align with the NPPF's requirements for allocating development outside settlements, particularly in relation to unmet housing needs and the importance of connectivity to existing settlements or transport corridors?",
+    "ground_truth": "The Coventry Local Plan justifies releasing Green Belt land due to exceptional circumstances, including significant growth, lack of brownfield alternatives, and the need to diversify housing and support economic growth, emphasizing development adjacent to the city's boundary or along key transport corridors. This approach aligns with the NPPF, which allows development outside settlements to address unmet housing needs if the development is well related to existing settlements and infrastructure, reflecting the importance of connectivity and strategic location in both policies. [Sources: Coventry Local Plan, Policy GB1; NPPF, relevant policy on development outside settlements]",
+    "source_chunk_ids": [
+      "c6f754c16f24-0027",
+      "8efcbe206a70-0020"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_Local_Plan_Final_Report_2017.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry City Centre Area Action Plan's focus on providing new affordable housing and promoting sustainable transport modes align with the NPPF's requirement for local plans to allocate sites for development to meet identified housing and infrastructure needs while applying a presumption in favour of sustainable development?",
+    "ground_truth": "The Coventry City Centre Area Action Plan supports the NPPF's requirement by directly providing new housing, including affordable homes, and promoting sustainable transport, which addresses local housing needs and encourages sustainable lifestyles. This aligns with the NPPF's expectation that local plans allocate sites for housing and infrastructure and apply a presumption in favour of sustainable development in decision-making. [Sources: Coventry City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report; NPPF, National decision-making policies S3 and site allocation guidance]",
+    "source_chunk_ids": [
+      "6c2face4814d-0023",
+      "8efcbe206a70-0018"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does Coventry's Policy CC9 on drainage and flood risk align with national policy requirements for site-specific flood risk assessments and the use of strategic flood risk evidence in development proposals?",
+    "ground_truth": "Coventry's Policy CC9 requires that development proposals include a Flood Risk Assessment considering all sources of flooding and reference local evidence such as the Local Flood Risk Management Strategy and Strategic Flood Risk Assessment, treating all sites as Greenfield for discharge calculations. This aligns with national policy, which mandates site-specific flood risk assessments for developments in areas at risk, informed by strategic flood risk assessments and appropriate to the scale and location of the proposal. [Sources: Coventry City Centre Area Action Plan, Policy CC9; National Planning Policy, F4]",
+    "source_chunk_ids": [
+      "6c2face4814d-0049",
+      "8efcbe206a70-0064"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How do both the Coventry Supplementary Planning Documents and the national planning policy address the integration of sustainable drainage systems (SuDS) as part of climate change adaptation and the enhancement of green infrastructure in new developments?",
+    "ground_truth": "Both the Coventry Supplementary Planning Documents and the national planning policy emphasise the use of sustainable drainage systems (SuDS) to manage flood risk and support climate change adaptation. Coventry's local guidance highlights SuDS as a key measure for reducing flood risk and increasing sustainability in new developments, while the national policy calls for the incorporation of SuDS to improve climate resilience, air and water quality, and to connect developments to high quality green infrastructure. [Sources: Coventry Supplementary Planning Documents; National Planning Policy]",
+    "source_chunk_ids": [
+      "81922591babc-0015",
+      "8efcbe206a70-0050"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the process for adopting a Supplementary Planning Document (SPD) in Coventry, including requirements for consultation and environmental assessment, align with the NPPF's emphasis on safeguarding and enhancing the natural environment through plan-making policies?",
+    "ground_truth": "The Coventry SPD adoption process requires public consultation, consideration of Strategic Environmental Assessment (SEA), and engagement with statutory bodies to address environmental impacts, reflecting the NPPF's objective that development plans should safeguard and enhance the natural environment using relevant evidence and strategies. Both sources emphasize the importance of integrating environmental safeguards and public input into the plan-making process to achieve sustainable growth and protect natural assets. [Sources: Coventry SPD, Regulation 12 and SEA requirements; NPPF, Plan-making policies for the natural environment]",
+    "source_chunk_ids": [
+      "9aa8456577ef-0003",
+      "8efcbe206a70-0067"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Biodiversity Net Gain SPD/Biodiversity_Net_Gain_SPD_Cabinet_Report.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry City Centre Area Action Plan's Sustainability Appraisal process ensure compliance with national requirements for identifying and evaluating the environmental effects of development, as outlined in the NPPF's emphasis on spatial strategies and protected land designations?",
+    "ground_truth": "The Coventry City Centre Area Action Plan's Sustainability Appraisal process meets national requirements by preparing an environmental report that identifies, describes, and evaluates the likely significant effects of implementing the plan, including reasonable alternatives and the relationship with other relevant plans. This aligns with the NPPF's requirement for local plans to illustrate spatial strategies, identify boundaries of policy areas, and consider protected land designations when planning for development and infrastructure. [Sources: Coventry City Centre Area Action Plan – Proposed Submission Sustainability Appraisal Report, January 2016; NPPF paragraphs on spatial strategy and protected land designations]",
+    "source_chunk_ids": [
+      "6c2face4814d-0005",
+      "8efcbe206a70-0018"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Adoption statements/AAP5_SASEA_Final_Report_CCAAP_2016.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How do the Coventry Supplementary Planning Document's requirements for considering health and community engagement in development proposals relate to the national policy's emphasis on creating well-designed, healthy places and optimizing development densities?",
+    "ground_truth": "The Coventry Supplementary Planning Document highlights the importance of health, wellbeing, and community engagement in the design of new developments, suggesting that proposals which demonstrate community involvement and consider wider health determinants should be viewed more favorably. This aligns with national policy, which emphasizes the need for development proposals to secure well-designed, attractive, and healthy places while making efficient use of land and optimizing densities. Both documents stress the integration of health considerations and community input in achieving sustainable and high-quality development outcomes. [Sources: Coventry Supplementary Planning Document; National Planning Policy, L3]",
+    "source_chunk_ids": [
+      "81922591babc-0002",
+      "8efcbe206a70-0043"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Local Plan's approach to meeting identified housing needs, including the provision for specific groups such as Gypsies and Travellers, align with the NPPF's requirement that local plans be produced in accordance with the national framework and use the most up-to-date local housing need figures?",
+    "ground_truth": "The Coventry Local Plan addresses identified local housing needs by providing for 25,000 new homes and including provisions for groups such as Gypsies, Travellers, students, and those in multiple occupation, in line with local need. This approach aligns with the NPPF's requirement that local plans be produced in accordance with the Framework and use the most up-to-date local housing need figures as calculated by the standard method, ensuring that local policies are responsive to both national standards and local circumstances. [Sources: NPPF paragraph 4; Coventry Local Plan]",
+    "source_chunk_ids": [
+      "3f78a7d27907-0037",
+      "8efcbe206a70-0077"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/4. Adopted City Centre Area Action Plan (2011 to 2031)/MOD14_SASEA_Final_Report___Local_Plan_Proposed_Modfications_2017.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Supplementary Planning Document's use of the Healthy Development Template to assess significant health impacts of development proposals relate to the NPPF's requirement for understanding and addressing the potential impacts of development on transport networks and sustainable movement?",
+    "ground_truth": "The Coventry Supplementary Planning Document requires developers to use the Healthy Development Template to identify and mitigate significant health impacts, including those related to housing quality and design, which can be influenced by transport and urban planning. This aligns with the NPPF's emphasis on ensuring that development impacts on transport networks are understood and addressed, supporting sustainable movement and access, which are factors that also affect health and wellbeing. [Sources: Coventry Supplementary Planning Document; NPPF]",
+    "source_chunk_ids": [
+      "81922591babc-0006",
+      "8efcbe206a70-0052"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Local Plan's approach to stepped housing delivery trajectories and the timing of Green Belt land release align with the NPPF's emphasis on making efficient use of land and achieving appropriate residential densities, particularly near well-connected transport nodes?",
+    "ground_truth": "The Coventry Local Plan adopts a stepped trajectory for housing delivery, delaying the release of Green Belt land and increasing annual completions after market conditions improve, which aligns with the NPPF's focus on efficient land use and higher densities near well-connected transport. Both policies seek to optimize development potential, but the Local Plan phases delivery to reflect local conditions and infrastructure readiness, while the NPPF sets density expectations for sites near transport hubs to ensure efficient land use from the outset. [Sources: Coventry Local Plan, Inspector’s Report October 2017; NPPF L3: Achieving appropriate densities]",
+    "source_chunk_ids": [
+      "c6f754c16f24-0019",
+      "8efcbe206a70-0043"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_Local_Plan_Final_Report_2017.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does Coventry's approach to defining and allocating retail floor space in its City Centre Area Action Plan align with the NPPF's requirement for local planning authorities to plan positively for objectively assessed development needs and to ensure the vitality and viability of town centres?",
+    "ground_truth": "Coventry's City Centre Area Action Plan identifies specific retail floor space requirements, breaks these down by type and period, and places the city centre at the top of its centres hierarchy, supporting regeneration and clarity in meeting retail needs. This approach aligns with the NPPF's directive that local plans should plan positively to meet objectively assessed needs and support the vitality and viability of town centres through sustainable development patterns. [Sources: NPPF, Plan-making policies S1 and town centre vitality guidance; Coventry City Centre Area Action Plan, Inspector’s Report]",
+    "source_chunk_ids": [
+      "a1707d79cddf-0004",
+      "8efcbe206a70-0017"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Adoption statements/Coventry_AAP_Final_Report.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does Coventry's Air Quality Supplementary Planning Document (SPD), which supports Local Plan Policy EM7, align with the national policy's emphasis on climate and nature by addressing air quality and promoting healthy living environments through planning?",
+    "ground_truth": "Coventry's Air Quality SPD provides technical guidance to support Local Plan Policy EM7, focusing on improving air quality through planning decisions, which aligns with national policy priorities for climate and nature by aiming to mitigate climate change, improve air quality, and promote healthy living environments. Both documents emphasize the integration of measures that support health, climate resilience, and air quality within the planning process. [Sources: Coventry Air Quality SPD (supporting Policy EM7); National Planning Policy (sections on climate and nature)]",
+    "source_chunk_ids": [
+      "1b1239c80251-0000",
+      "8efcbe206a70-0050"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Air Quality SPD/Cabinet_Member_Report_air_quality_SPD_final_draft_10_Dec_2018.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Local Plan's approach to restricting hot food takeaways in specific city centre streets and encouraging healthier food options relate to the NPPF's policy on refusing hot food takeaways near schools or where concentrations harm health?",
+    "ground_truth": "The Coventry Local Plan restricts new hot food takeaways in areas with existing over-concentration and promotes accessibility to healthier food, aligning with the NPPF's policy to refuse hot food takeaways near schools or where concentrations negatively impact health. Both policies aim to address public health concerns by managing the location and concentration of hot food outlets and encouraging healthier choices. [Sources: NPPF HC5; Coventry Local Plan, City Centre Area Action Plan]",
+    "source_chunk_ids": [
+      "48ed00331953-0007",
+      "8efcbe206a70-0058"
+    ],
+    "document_classes": [
+      "Coventry Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/3. Adopted Local Plan Document Library/Evidence Base for the adopted Local Plan 2017/Health and Wellbeing/LP27_Local_Plan_Health_Impact_Assessment_2016.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Local Plan's emphasis on integrating green infrastructure and high-quality design to improve air quality, noise, and neighbourhood amenity align with the NPPF's requirements for sustainable development and protecting local amenity through plan-making and Article 4 directions?",
+    "ground_truth": "The Coventry Local Plan highlights the importance of green infrastructure, good design, and separation of land uses to enhance air quality, reduce noise, and support mental and physical health, directly contributing to local amenity and wellbeing. This aligns with the NPPF's focus on sustainable development patterns, protecting local amenity, and using planning tools like Article 4 directions to safeguard quality of life, demonstrating a local implementation of national objectives for positive plan-making and community wellbeing. [Sources: NPPF, Plan-making policies S1 and DM10; Coventry Local Plan, DE1, GE1, and related policies]",
+    "source_chunk_ids": [
+      "81922591babc-0009",
+      "8efcbe206a70-0017"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How do the Coventry Local Plan's approaches to improving access to healthy food and employment opportunities align with the national policy's emphasis on supporting sustainable patterns of movement and mixed-use development?",
+    "ground_truth": "The Coventry Local Plan promotes access to healthy food through localised supply, community food growing, and limiting hot food takeaways, as well as supporting employment and training opportunities, which can be facilitated by urban planning decisions. This aligns with national policy, which encourages locating development to support sustainable movement patterns and providing a mix of uses to minimise travel for employment, shopping, and other activities, thereby supporting healthier and more accessible local environments. [Sources: Coventry Supplementary Planning Document; National Planning Policy (UK)]",
+    "source_chunk_ids": [
+      "81922591babc-0012",
+      "8efcbe206a70-0052"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does the Coventry Supplementary Planning Document address national policy requirements for supplementary plans to avoid duplicating or restating national policies, particularly in relation to environmental quality and health impacts?",
+    "ground_truth": "The Coventry Supplementary Planning Document addresses local environmental quality and health impacts by referencing specific local policies and issues such as air quality, noise, green infrastructure, and mental health, rather than duplicating national policy content. This aligns with national policy requirements that supplementary plans should not duplicate or restate national policies, but instead focus on local implementation and context, as set out in the tests of soundness and requirements for supplementary plans in the national policy framework. [Sources: NPPF PM16; Coventry Supplementary Planning Document]",
+    "source_chunk_ids": [
+      "81922591babc-0009",
+      "8efcbe206a70-0012"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  },
+  {
+    "question": "How does Coventry's approach to addressing health inequalities, particularly in deprived areas, relate to the national policy requirement for residential developments to create well-designed, attractive, and healthy places with efficient use of land?",
+    "ground_truth": "Coventry's focus on reducing health inequalities, especially in deprived areas, emphasizes the importance of improving physical and social environments to enhance community well-being, aligning with national policy that requires residential developments to secure well-designed, attractive, and healthy places while making efficient use of land. Both policies highlight the need to consider health impacts and community needs in planning decisions to support healthier living environments. [Sources: Coventry Supplementary Planning Document; National Planning Policy L3]",
+    "source_chunk_ids": [
+      "81922591babc-0001",
+      "8efcbe206a70-0043"
+    ],
+    "document_classes": [
+      "Supplementary Planning Document",
+      "National Planning Policy"
+    ],
+    "regions": [
+      "Coventry",
+      "UK"
+    ],
+    "source_paths": [
+      "Coventry/2. Supplementary Planning Documents (SPD)/Adopted SPDs/Health Impact Assessment SPD/Health_Impact_Assessment_and_Coventry_Connected_Supplementary_Planning_Documents_SPDs_v2.pdf",
+      "general/Draft_NPPF_December_2025.pdf"
+    ]
+  }
+]

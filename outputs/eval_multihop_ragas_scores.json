@@ -1,0 +1,37 @@
+{
+  "Exp02 Hybrid": {
+    "faithfulness": 0.9014170034412642,
+    "answer_relevancy": 0.8740033788286143,
+    "context_precision": 0.892638888862781,
+    "context_recall": 0.8194444444444445,
+    "citation_quality": 0.89
+  },
+  "Exp04b FT-BGE v2": {
+    "faithfulness": 0.9019230250575316,
+    "answer_relevancy": 0.8761252100830654,
+    "context_precision": 0.9296759258940557,
+    "context_recall": 0.8222222222222223,
+    "citation_quality": 0.91
+  },
+  "Exp05 Regex Graph": {
+    "faithfulness": 0.8902929585798236,
+    "answer_relevancy": 0.8742255187232671,
+    "context_precision": 0.85152777775023,
+    "context_recall": 0.8194444444444445,
+    "citation_quality": 0.91
+  },
+  "Exp07 LLM Graph": {
+    "faithfulness": 0.9001630992210864,
+    "answer_relevancy": 0.822486723342648,
+    "context_precision": 0.8931944444166838,
+    "context_recall": 0.8138888888888889,
+    "citation_quality": 0.94
+  },
+  "Exp08 Combined": {
+    "faithfulness": 0.8787830533940373,
+    "answer_relevancy": 0.814811259631776,
+    "context_precision": 0.8787962962738758,
+    "context_recall": 0.7916666666666667,
+    "citation_quality": 0.8899999999999999
+  }
+}

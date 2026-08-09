@@ -1,0 +1,11 @@
+{
+  "files_scanned": 244,
+  "files_deduplicated": 21,
+  "files_with_text": 89,
+  "files_without_text": 134,
+  "chunks_created": 955,
+  "dataset_path": "/home/alara/nppf-rag/data/dataset",
+  "output_path": "/home/alara/nppf-rag/outputs/chunks.jsonl",
+  "chunk_size": 512,
+  "overlap": 64
+}

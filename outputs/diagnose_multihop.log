@@ -1,0 +1,116 @@
+Diagnosing 30 multi-hop questions against Exp07 (LLM Graph)
+
+BM25 index built over 955 chunks
+Loading embeddings on cpu using outputs/bge-planning-finetuned-v2
+Loading weights:   0%|          | 0/391 [00:00<?, ?it/s]Loading weights: 100%|██████████| 391/391 [00:00<00:00, 5963.69it/s]
+/home/alara/nppf-rag/venv/lib/python3.12/site-packages/torch/cuda/__init__.py:187: UserWarning: CUDA initialization: The NVIDIA driver on your system is too old (found version 12080). Please update your GPU driver by downloading and installing a new version from the URL: http://www.nvidia.com/Download/index.aspx Alternatively, go to: https://pytorch.org to install a PyTorch version that has been compiled with your version of the CUDA driver. (Triggered internally at /pytorch/c10/cuda/CUDAFunctions.cpp:119.)
+  return torch._C._cuda_getDeviceCount() > 0
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 5217.31it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6122.71it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6368.44it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6208.49it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6112.15it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6266.94it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6613.74it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6149.85it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6714.74it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 5367.47it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 5966.19it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6515.13it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6220.63it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6040.19it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6283.04it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6451.18it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6465.46it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 5408.86it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6468.55it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6302.35it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6233.71it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6172.37it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6372.82it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6133.53it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 5925.78it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6651.88it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6034.90it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6120.14it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6204.40it/s]
+Reranking 60 candidates with BAAI/bge-reranker-v2-m3 on cpu
+Loading weights:   0%|          | 0/393 [00:00<?, ?it/s]Loading weights: 100%|██████████| 393/393 [00:00<00:00, 6138.46it/s]
+                 Multi-Hop Retrieval Diagnosis (Exp07 pipeline)                 
+┏━━━━┳━━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━┳━━━━━━━━━━┳━━━━━━━━━┓
+┃    ┃          ┃          ┃         ┃          ┃         ┃          ┃  Both   ┃
+┃    ┃          ┃          ┃         ┃          ┃ Chunk A ┃          ┃ requir… ┃
+┃    ┃          ┃          ┃ Chunk A ┃ Chunk B  ┃   in    ┃ Chunk B  ┃ chunks  ┃
+┃    ┃ Chunk A  ┃ Chunk B  ┃  after  ┃  after   ┃  final  ┃ in final ┃   in    ┃
+┃ Q# ┃ in seed? ┃ in seed? ┃ graph?  ┃  graph?  ┃ top-5?  ┃  top-5?  ┃ answer? ┃
+┡━━━━╇━━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━━━╇━━━━━━━━━━╇━━━━━━━━━┩
+│  1 │   YES    │   YES    │   YES   │   YES    │   no    │   YES    │         │
+│  2 │   YES    │    no    │   YES   │    no    │   no    │    no    │         │
+│  3 │   YES    │   YES    │   YES   │   YES    │   no    │    no    │         │
+│  4 │   YES    │    no    │   YES   │    no    │   YES   │    no    │         │
+│  5 │   YES    │   YES    │   YES   │   YES    │   YES   │   YES    │  BOTH   │
+│  6 │   YES    │    no    │   YES   │    no    │   YES   │    no    │         │
+│  7 │   YES    │    no    │   YES   │    no    │   YES   │    no    │         │
+│  8 │   YES    │    no    │   YES   │    no    │   no    │    no    │         │
+│  9 │   YES    │    no    │   YES   │    no    │   no    │    no    │         │
+│ 10 │   YES    │   YES    │   YES   │   YES    │   no    │    no    │         │
+│ 11 │   YES    │    no    │   YES   │    no    │   YES   │    no    │         │
+│ 12 │    no    │   YES    │   no    │   YES    │   no    │   YES    │         │
+│ 13 │    no    │   YES    │   no    │   YES    │   no    │   YES    │         │
+│ 14 │   YES    │    no    │   YES   │    no    │   YES   │    no    │         │
+│ 15 │   YES    │   YES    │   YES   │   YES    │   no    │    no    │         │
+│ 16 │   YES    │   YES    │   YES   │   YES    │   no    │   YES    │         │
+│ 17 │   YES    │   YES    │   YES   │   YES    │   YES   │    no    │         │
+│ 18 │    no    │    no    │   YES   │    no    │   no    │    no    │         │
+│ 19 │    no    │    no    │   no    │    no    │   no    │    no    │         │
+│ 20 │   YES    │    no    │   YES   │    no    │   no    │    no    │         │
+│ 21 │   YES    │   YES    │   YES   │   YES    │   no    │    no    │         │
+│ 22 │   YES    │    no    │   YES   │    no    │   YES   │    no    │         │
+│ 23 │   YES    │   YES    │   YES   │   YES    │   YES   │    no    │         │
+│ 24 │   YES    │   YES    │   YES   │   YES    │   YES   │    no    │         │
+│ 25 │   YES    │    no    │   YES   │   YES    │   YES   │    no    │         │
+│ 26 │    no    │    no    │   no    │    no    │   no    │    no    │         │
+│ 27 │   YES    │   YES    │   YES   │   YES    │   YES   │    no    │         │
+│ 28 │   YES    │   YES    │   YES   │   YES    │   no    │    no    │         │
+│ 29 │    no    │   YES    │   YES   │   YES    │   no    │   YES    │         │
+│ 30 │   YES    │    no    │   YES   │    no    │   YES   │    no    │         │
+└────┴──────────┴──────────┴─────────┴──────────┴─────────┴──────────┴─────────┘
+
+Summary across 30 multi-hop questions:
+  Both chunks in initial BM25+Dense seed (pre-graph):  12/30
+  Both chunks in pool AFTER graph expansion:          14/30
+  Both chunks survive into FINAL top-5 (post-rerank): 1/30
+
+Graph expansion net contribution: 2 additional questions where both chunks 
+became available
+Reranker survival rate: 1/14 of the questions where the graph found both chunks
